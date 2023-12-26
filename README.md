@@ -1,4 +1,3 @@
-I make Minecraft mods and bad Unity games. 
-Some times discord bots
-
-And i like Cats🐱
+I write minecraft mods and discord bots. 
+Creator of TreeBark+ [FORGE/FABRIC]
+https://linktr.ee/nico_44
