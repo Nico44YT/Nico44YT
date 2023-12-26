@@ -1,3 +1,5 @@
-I write minecraft mods and discord bots. 
-Creator of TreeBark+ [FORGE/FABRIC]
+I write minecraft mods and discord bots. \n
+
+Creator of TreeBark+ [FORGE/FABRIC] \n
+
 https://linktr.ee/nico_44
