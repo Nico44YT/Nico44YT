@@ -1,7 +1,4 @@
-Hi 👋 My name is Nico
-=====================
-
-Student
+Nico
 -------
 
 I write minecraft mods and discord bots. Creator of TreeBark+ \[FORGE/FABRIC\]
