@@ -1,7 +1,7 @@
 Nico
 -------
 
-I write minecraft mods and other stuff
+I am in your walls™
 
 [My Linktree](http://linktr.ee/nico_44)
 
