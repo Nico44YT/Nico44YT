@@ -1,7 +1,7 @@
-Nico
+Nico A.
 -------
 
-I am in your walls™
+Hobby developer, programming minecraft mods and other applications in java.
 
 [My Linktree](http://linktr.ee/nico_44)
 
